@@ -42,7 +42,7 @@
     "@mui/material": "^5.8.3",
     "@multifarm/widget": "^0.0.155",
     "@olympusdao/component-library": "^2.0.4",
-    "@reduxjs/toolkit": "^1.8.2",
+    "@reduxjs/toolkit": "^1.9.0",
     "@types/material-ui": "^0.21.12",
     "@walletconnect/web3-provider": "^1.7.8",
     "axios": "^0.27.2",
